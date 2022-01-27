@@ -1,6 +1,6 @@
 num =[] 
 num_par = []
-for i in range(20):
+for i in range(1,20):
     if i%2 != 0:  # si es impar
         num.append(i)
     else:
